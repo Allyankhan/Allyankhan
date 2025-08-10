@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Allyan Khan</h1>
+<h1 align="center">Hi, I'm Allyan Khan</h1>
 <h2 align="center" style="font-size: 32px; color: #00ffff; font-weight: bold;">
-💻 Software Engineer | React | Machine Learning
+💻 Software Engineer | Machine Learning
 </h2>
 
 <p align="center">
