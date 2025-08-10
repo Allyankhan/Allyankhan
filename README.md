@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Allyan Khan</h1>
 <h2 align="center" style="font-size: 32px; color: #00ffff; font-weight: bold;">
-💻 Software Engineer | Machine Learning
+💻 Software Engineer |Web Developement | Machine Learning
 </h2>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">💻 My Tech Stack</h3>
+<h3 align="center"> My Tech Stack</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a>
