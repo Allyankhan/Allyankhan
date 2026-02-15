@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Allyan Khan </h1>
 
 <h2 align="center" style="font-size: 28px; color: #00ffff; font-weight: bold;">
- Software Engineer |  Web Development |  Machine Learning
+ Software Engineer |  Artificial Intelligence |  Machine Learning
 </h2>
 
 <p align="center">
