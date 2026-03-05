@@ -35,15 +35,3 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allyankhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allyankhan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyankhan&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
