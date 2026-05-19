@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Allyan Khan </h1>
 
 <h2 align="center" style="font-size: 28px; color: #00ffff; font-weight: bold;">
-Software Engineer | AI& Machine Learning | Generative AI | Computer Vision | LLMs | MLOps | AWS & AI Powered Automation
+Software Engineer | AI& Machine Learning | Generative AI | Computer Vision | LLMs | MLOps | Data Engineering| AWS & AI Powered Automation
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=allyankhan&label=Profile%20views&color=00ffff&style=flat-square" alt="Profile Views" />
