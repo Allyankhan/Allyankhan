@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Allyan Khan </h1>
+<h1 align="center">Hello, I'm Allyan Khan </h1>
 
 <h2 align="center" style="font-size: 28px; color: #00ffff; font-weight: bold;">
 Software Engineer | AI & Machine Learning | Generative AI | RAG Systems | LLMs | Computer Vision | MLOps | AWS | Data Engineering
