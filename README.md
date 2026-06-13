@@ -6,7 +6,7 @@
 Focusing on production-grade GenAI pipelines, RAG architectures, Computer Vision, and scalable MLOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-khan-b39a40368/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.allyan45@gmail.com)
+<a href="mailto:me.allyan45@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK)
 
 </div>
@@ -49,7 +49,7 @@ I am a Software Engineer dedicated to bridging the gap between cutting-edge AI r
 Whether you want to discuss a potential role, collaborate on an open-source AI project, or simply talk shop about the future of Generative AI, feel free to drop me a line!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/allyan-khan-b39a40368/">
-    <img src="https://img.shields.io/badge/Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:me.allyan45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
 </div>
