@@ -3,7 +3,7 @@
 # Allyan Khan
 ### **Software Engineer — AI/ML & Generative AI**
 
-Focusing on production-grade GenAI pipelines, RAG architectures, Computer Vision, and scalable MLOps.
+Focusing on production-grade GenAI pipelines, RAG architectures and Computer Vision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-khan-b39a40368/)
 <a href="mailto:me.allyan45@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -29,7 +29,7 @@ I am a Software Engineer dedicated to bridging the gap between cutting-edge AI r
 | :--- | :--- |
 | **Generative AI / LLMs** | LangChain • LlamaIndex • RAG • Vector Databases (Pinecone/Milvus/Chroma) • Prompt Engineering |
 | **AI / Machine Learning** | Python • PyTorch • TensorFlow • OpenCV • Scikit-Learn • Pandas • NumPy |
-| **MLOps & Cloud** | AWS (EC2, S3, SageMaker) • Docker • Git • Linux • CI/CD Pipelines |
+| **DEVOps & Cloud** | AWS (EC2, S3, SageMaker) • Docker • Git • Linux • CI/CD Pipelines |
 | **Backend & Data** | Node.js • Express • Flask • FastAPI • MongoDB • PostgreSQL • MySQL |
 | **Frontend Integration** | React • Vite • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3 |
 
